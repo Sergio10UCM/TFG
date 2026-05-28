@@ -1,18 +1,11 @@
 # =============================================================================
 # TFG: Impacto socioeconómico de los conciertos en Madrid
 # Script 00 — Importación y limpieza de todos los datasets
-# Ejecutar ANTES de tfg_analisis_completo.R
-# =============================================================================
-# INSTRUCCIONES:
-#   1. Ajusta las rutas locales del Bloque A si tu estructura de carpetas
-#      es distinta. Las fuentes remotas (INE, Calendario) no requieren cambios.
-#   2. Ejecuta el script completo de una vez (Ctrl+Shift+Enter en RStudio).
-#   3. Al final verás un resumen con los objetos cargados y su tamaño.
 # =============================================================================
 
 
 # -----------------------------------------------------------------------------
-# BLOQUE A — RUTAS LOCALES (ajusta aquí si cambia tu estructura de carpetas)
+# BLOQUE A — RUTAS LOCALES
 # -----------------------------------------------------------------------------
 
 RUTA_BASE <- "~/Library/Mobile Documents/com~apple~CloudDocs/Universidad/4º/TFG/Bases de datos"
