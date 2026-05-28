@@ -35,6 +35,8 @@ Para ejecutar el proyecto en un nuevo entorno, sigue estos pasos:
 	3.	Busca la sección "Configuración de rutas" al inicio de cada script y sustituye las direcciones por las de tu directorio local donde se encuentren los datasets.
     
 	4.	Asegúrate de tener instaladas las librerías necesarias especificadas en las cabeceras de los archivos.
+
+Nota: en caso de no tener los datasets descargados (debido a la falta de una API Key, etc.), esta carpeta de Google Drive incluye una copia de respaldo de todas las bases de datos necesarias: https://drive.google.com/drive/folders/1OVLUvx8FJq-0PxPXW5C7oiC4l4qxf409?usp=sharing
     
 ## ✒️ Autor
 
