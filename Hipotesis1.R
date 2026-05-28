@@ -1,13 +1,7 @@
-#NUEVO CAPÍTULO 4
 # =============================================================================
 # TFG — Capítulo 4: Análisis Inferencial (Parte R)
 # Cobertura R: H1, H2, H3, H5
 # Cobertura Python (script separado): H4, H6, H7
-#
-# PREREQUISITOS:
-#   1) tfg_00_importacion.R ejecutado
-#   2) tfg_cap3_definitivo.R ejecutado (necesitamos tabla_diaria_airbnb,
-#      tabla_mensual, listings_clean, conciertos, geo_neigh_06)
 #
 # AUTOR: Sergio Díez Cardo — TFG Ciencia de Datos Aplicada
 # =============================================================================
